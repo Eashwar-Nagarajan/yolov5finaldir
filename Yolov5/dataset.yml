@@ -1,0 +1,7 @@
+path: ../data 
+train: images 
+val: images  
+
+# Classes
+nc: 7  # number of classes
+names: ['eyes_closed','yawn','eyes_open','Down','Side','Placeholder','Up']
